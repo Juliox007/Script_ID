@@ -13,3 +13,4 @@ read -p "your profession:" profession
 # Displaying a message with gathered information
 echo ""
 echo "Hello $name!your age is $age, your city is $city and your profession is $profession"git 
+date
